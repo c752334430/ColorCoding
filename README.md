@@ -3,6 +3,7 @@
 Python Implementation of Color coding algorithm
 
 ## Introduction
+Color coding is a probabilistic algorithm that can be applied to detect a path or a cycle of specified length in a given graph.
 
 ## Installation
 `pip install -i https://test.pypi.org/simple/ colorCoding`
